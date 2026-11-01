@@ -1,4 +1,3 @@
-
 """This module creates a Stack using a Python list."""
 
 
